@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding a new line in the Alice's file.
 Testing merge in divergent branches.
+Add a final text to resolve conflicts
+
