@@ -1,9 +1,2 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding a new line in the Alice's file.
-Testing merge in divergent branches.
-Adding more text to test 'git rebase'.
-Fetching changes sample
-Practicing pulling with conflicts
-Adding a conflict
-selva
-Add a final text to resolve conflicts
