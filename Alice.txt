@@ -6,3 +6,4 @@ Fetching changes sample
 Practicing pulling with conflicts
 Adding a conflict
 selva
+Add a final text to resolve conflicts
