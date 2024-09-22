@@ -1,2 +1,6 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Adding a new line in the Alice's file.
+1
+2
+3
+4
