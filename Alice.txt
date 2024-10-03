@@ -3,4 +3,4 @@ Adding a new line in the Alice's file.
 
 (server edit)
 
-(second server edit) bbbbbbbbbbbb
+(second server edit)
